@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### 🛠 技术栈 | Tech Stack
 
 - 💻 &#160; 
-- ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=ffffff) ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) 
+![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=ffffff) ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) 
 ![sass](https://img.shields.io/badge/sass-CC6699?logo=sass&logoColor=ffffff&style=for-the-badge) 
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=222222&style=for-the-badge) 
 ![typescript](https://img.shields.io/badge/typescript-007ACC?logo=typescript&logoColor=ffffff&style=for-the-badge) 
