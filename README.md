@@ -1,6 +1,5 @@
  <a>![wechat](https://img.shields.io/badge/wechat-fuxiaochen-666666?style=for-the-badge&logo=wechat&logoColor=ffffff&labelColor=7BB32E)</a> 
  <a href="mailto:fuxiaochen321@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-fuxiaochen321@gmail.com-666666?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=D14836)</a>
- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
  
  ### 😄 I'm Fu xiaochen
 * 一枚前端开发者
