@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](http://fuxiaochen.cn:4000/get/@fuxiaochen.readme)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuxiaochen)
 ![fuxiaochen's github stats](https://github-readme-stats.vercel.app/api?username=fuxiaochen&show_icons=true&count_private=true&line_height=40)
